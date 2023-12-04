@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #222222f6;
+    
+}
+
+.encadrement-neon {
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff00;
+    text-shadow: 0 0 10px rgba(74, 1, 1, 0);
+    padding: 0px;
+    background-color: rgba(0, 255, 0, 0);
+    border-radius: 20px 200px 50px 20px ;
+    box-shadow: 0 0 3px rgb(255, 255, 255);
+}
+
+.encadrement-neon p {
+    margin: 0;
+
+}
